@@ -20,7 +20,7 @@ This dashboard helps identify key business insights like:
 ## 📂 Files
 - `Sales_Analysis_Dashboard_Mustaqeem_Shaikh.pdf` – Final exported dashboard
 - 'Sales_Analysis_Dashboard_Mustaqeem_BI.pbit'  - Power BI File
-- `Superstore_Dataset.xlsx` – Data source
+- `Sample - Superstore.csv` – Data source
 - 'README.md'  - Readme
 
 ---

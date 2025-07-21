@@ -20,11 +20,6 @@ This dashboard helps identify key business insights like:
 ## 📂 Files
 - `Sales_Analysis_Dashboard_Mustaqeem_Shaikh.pdf` – Final exported dashboard
 - `Superstore_Dataset.xlsx` – Data source
-- `Dashboard_Screenshots/` – Visuals from the dashboard
-
-## 📸 Dashboard Preview
-
-![Executive Summary](Dashboard_Screenshots/Page1_ExecutiveSummary.png)
 
 ---
 
